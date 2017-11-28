@@ -1,0 +1,1049 @@
+city,IATA
+Abakan,ABA
+Abbotsford,YXX
+Aberdin,ABZ
+Abidjan,ABJ
+Abu Dhabi,AUH
+Aviano,AVB
+Adana,ADA
+Addis Ababa,ADD
+Adelaide,ADL
+Aden,ADE
+Aqaba,AQJ
+Acapulko,ACA
+Akita,AXT
+Accra,ACC
+Aktau,SCO
+Aktyubinsk,AKX
+Aldan,ADH
+Alexandria,ALY
+Alexandroupolis,AXD
+Aleppo,ALP
+Algiers,ALG
+Alicante,ALC
+Almaty,ALA
+Alghero,AHO
+Alta,ALF
+Altenburg,AOC
+Altenrhein,ACH
+Amderma,AMV
+Amman,AMM
+Amritsar,ATQ
+Amsterdam,AMS
+Anadyr,DYR
+Anapa,AAQ
+Andizhan,AZN
+Andros Town,ASD
+Angers,ANE
+Ankara,ANK
+Ancona,AOI
+Anchorage,ANC
+Annaba,AAE
+Antalya,AYT
+Antananarivo,TNR
+Antwerp,ANR
+Aomori,AOJ
+Apia,APW
+Arad,ARW
+Arkalyk,AYK
+Arua,RUA
+Arkhangelsk,ARH
+Aarhus,AAR
+Asahikawa [Civ],AKJ
+Asmara,ASM
+Astana,TSE
+Astrakhan,ASF
+Asturias,OVD
+Aswan,ASW
+Atbasar,ATX
+Atlanta,ATL
+Atsugi,NJA
+Atyrau,GUW
+Augsburg,AGB
+Athens,ATH
+Afyon,AFY
+Ahmedabad,AMD
+Achinsk,ACS
+Ashgabat,ASB
+Ajaccio,AJA
+Baghdad,BGW
+Bagotville,YBG
+Baden-Baden,ZCC
+Basel/Mulhouse,EAP
+Bayonne,XBY
+Bacolod,BCD
+Baku,BAK
+Balakovo,BWO
+Bali,BAJ
+Balhash,BXH
+Balboa,BLB
+Bamako,BKO
+Bangalore,BLR
+Bangkok,BKK
+Bangor,BGR
+Bangui,BGF
+Banjul,BJL
+Bardufoss,BDU
+Bari,BRI
+Barnaul,BAX
+Barranquilla,BAQ
+Barrow,BRW
+Barcelona,BCN
+Basrah,BSR
+Bastia,BIA
+Batumi,BUS
+Bahrain,BAH
+Baia Mare,BAY
+Bedford,BED
+Beira,BEW
+Beirut,BEY
+Belgorod,EGO
+Belgrade,BEG
+Bellingham,BLI
+Beloreck,BCX
+Belfast,BFS
+Beltsy,BZY
+Benghazi,BEN
+Bandar Abbas,BND
+Bandar Seri Begawan,BWN
+Benson,BEX
+Bergen,BGO
+Berdyansk,ERD
+Berlin,BER
+Berne,BRN
+Bethel,BET
+Biggin Hill,BQH
+Bielefeld,BFE
+Billund,BLL
+Bilbao,BIO
+Bintulu,BTU
+Birmingham,BHX
+Bissau,OXB
+Bishkek,FRU
+Blagoveschensk,BQS
+Blackpool,BLK
+Bobo Dioulasso,BOY
+Bogota,BOG
+Bodo,BOO
+Bodrum,BXN
+Bologna,BLQ
+Bonn,BNJ
+Bordeaux,BOD
+Bornholm,RNN
+Boston,BOS
+Brazzaville,BZV
+Brasilia,BSB
+Brize Norton,BZZ
+Bratislava,BTS
+Bratsk,BTK
+Braunschweig,BWE
+Bremen,BRE
+Brest,BQT
+Bridgetown,BGI
+Brindisi,BDS
+Brisbane,BNE
+Bristol,BRS
+Brno,BRQ
+Brussels,BRU
+Briansk,BZK
+Bugulma,UUA
+Budapest,BUD
+Bujumbura,BJM
+Bourgas,BOJ
+Borlange,BLE
+Bursa,BTZ
+Bukhara,BHK
+Bucharest,BUH
+Provideniya,PVS
+Buenos Aires,BUE
+Vaasa,VAA
+Waddington,WTN
+Vadso,VDS
+Wakkanai,WKJ
+Valence,VAF
+Valencia,VLC
+Van,VAN
+Vancouver,YVR
+Varkaus,VRK
+Varna,VAR
+Warszawa,WAW
+Vasteras,VST
+Washington,WAS
+Velikiye Luki,VLU
+Velikij Novgorod,NVR
+Velikij Ustyug,VUS
+Wellington,WLG
+Vienna,VIE
+Venezia,VCE
+Woensdrecht,WOE
+Verona,VRN
+Vastervik,VVK
+Westerland,GWT
+White Plains,HPN
+Vigo,VGO
+Victoria Intl.,VCT
+Wilmington,ILM
+Vilnius,VNO
+Windsor Locks,BDL
+Windhoek,WDH
+Winnipeg Intl,YWG
+Vinnica,VIN
+Visby,VBY
+Vitebsk,VTB
+Vitoria,VIT
+Vladivostok,VVO
+Vladikavkaz,OGZ
+Volgograd,VOG
+Volgodonsk,VLK
+Vologda,VGD
+Vorkuta,VKT
+Voronezh,VOZ
+Wroclaw,WRO
+Vientiane,VTE
+Havana,HAV
+Gavle,GVX
+Le Havre,LEH
+Gaza City,GZA
+Galena,GAL
+Halifax,YHZ
+Hamburg,HAM
+Gander,YQX
+Hanover,HAJ
+Kaohsiung,KHH
+Guadalajara,GDL
+Guatemala City,GUA
+Gdansk,GDN
+Gelendzik,GDZ
+Genoa,GOA
+Herat,HEA
+Gerona,GRO
+Gothenburg,GOT
+Glasgow,GLA
+Gloucester,GLO
+Goa,GOI
+Gomel,GME
+Hong Kong,HKG
+Honolulu,HNL
+Gorna Orechovitca,GOZ
+Graz,GRZ
+Grodno,GNA
+Groznyj,GRV
+Groningen,GRQ
+Grosseto,GRS
+Guam,GUM
+Guangzhou,CAN
+Guernsey,GCI
+Goose Bay,YYR
+Gyoumri,LWN
+Gyandzha,KVD
+Dakar,DKR
+Dhaka,DAC
+Dalaman,DLM
+Dallas,DFW
+Dalian,DLC
+Damascus,DAM
+Da Nang,DAD
+Darwin,DRW
+Dar Es Salaam,DAR
+Daugavpils,DGP
+Dhahran,DHA
+Dashoguz,TAZ
+Debrecen,DEB
+Delhi,DEL
+Denpasar Bali,DPS
+Detroit,DTT
+Jakarta,JKT
+Djerba,DJE
+Djibouti,JIB
+Jeddah,JED
+Georgetown,GEO
+Juneau,JNU
+Dijon,DIJ
+Dikson,DKS
+Dillingham,DLG
+Dinard,DNR
+Diyarbakir,DIY
+Dnepropetrovsk,DNK
+Dover-Cheswold,DOV
+Deauville,DOL
+Dole,DLE
+Donetsk,DOK
+Dortmund,DTM
+Doha,DOH
+Dresden,DRS
+Douala,DLA
+Dubai,DXB
+Dublin,DUB
+Dubrovnik,DBV
+Dushanbe,DYU
+Dusseldorf,DUS
+Ekaterinburg,SVX
+Emmen,EML
+Eniseysk,EIE
+Yerevan,EVN
+Essen,ESS
+Zhairem,HRC
+Zhezhazgan,DZN
+Geneva,GVA
+Rzeszow,RZE
+Zhitomir,ZTR
+Zagreb,ZAG
+Zaisan,SZI
+Zakinthos,ZTH
+Zalzburg,SZG
+Zaporozhye,OZH
+Zahedan,ZAN
+Zielona Gora,IEG
+Zlin,GTW
+Ibiza,IBZ
+Ivalo,IVL
+Ivanovo,IWA
+Ivano-Frankovsk,IFO
+Igarka,IAA
+Jerusalem,JRS
+Izhevsk,IJK
+Izmir,IZM
+Izumo,IZO
+Iqaluit,YEB
+Ylivieska,YLI
+Inverness,INV
+Ingolstadt,ZNQ
+Indianapolis,IND
+Innsbruck,INN
+Inta,INA
+Inuvik,YEV
+Yokohama,YOK
+Jonkoping,JKG
+Heraklion,HER
+Irkutsk,IKT
+Islamabad,ISB
+Isparta,ISE
+Istres,QIE
+Isfahan,IFN
+Yellowknife,YZF
+Johannesburg,JNB
+Joshkar-Ola,JOK
+Joensuu,JOE
+Kabul,KBL
+Kavala,KVA
+Kagoshima,KOJ
+Kodiak,ADQ
+Caen,CFR
+Kazan,KZN
+Cairo,CAI
+Calgary,YYC
+Cali,CLO
+Kaliningrad,KGD
+Kalispell,FCA
+Kalmar,KLR
+Kaluga,KLF
+Kolkata,CCU
+Cagliari,CAG
+Camaguey,CMW
+Kamenets-Podolskiy,KCP
+Kampala,KLA
+Kanazawa,QKW
+Canberra,CBR
+Kansas City,MKC
+Cancun,CUN
+Cannes,CEQ
+Kano,KAN
+Karaganda,KGF
+Caracas,CCS
+Caransebes,CSB
+Karachi,KHI
+Cardiff,CWL
+Karlovy Vary,KLV
+Karup,KRP
+Karshi,KSQ
+Casablanca,CAS
+Catania,CTA
+Kathmandu,KTM
+Katowice,KTW
+Kaunas,KUN
+Cahors,ZAO
+Kajaani,KAJ
+Quebec,YQB
+Quetta,UET
+Cambridge Bay,YCB
+Cape Town,CPT
+Cologne,CGN
+Cambridge,CBG
+Kemerovo,KEJ
+Kemi [Tornio],KEM
+Camp Springs,ADW
+Kenai,ENA
+Kerkira,CFU
+Kerman,KER
+Kermanshah,KSH
+Kerch,KHC
+Ketchikan Intl,KTN
+Kefallinia,EFL
+Kigali,KGL
+Kiev,IEV
+Kilimanjaro,JRO
+Kiel,KEL
+King Salmon,AKN
+Qingdao,TAO
+Kingston,KIN
+Kinshasa,FIH
+Kirkenes,KKN
+Kirov,KVX
+Kirovograd,KGO
+Kirovsk,KVK
+Kiruna,KRN
+Kitee,KTQ
+Quito,UIO
+Kittila,KTT
+Kish I.,KIH
+Chisinau,KIV
+Klagenfurt,KLU
+Klaipeda,KLJ
+Clermont-Ferrand,CFE
+Cluj,CLJ
+Coventry,CVT
+Kogalym,KGP
+Cocos Islands,CCK
+Kokshetau,KOV
+Cold Bay,CDB
+Cold Lake,YOD
+Colombo,CMB
+Komsomolsk Na Amure,KXK
+Kona,KOA
+Conakry,CKY
+Constantine,CZL
+Constanta,CND
+Konya[Mil],KYA
+Copenhagen,CPH
+Cordova,CDV
+Cork,ORK
+Kos,KGS
+Kostanay,KSN
+Kostroma,KMW
+Cotabato,CBO
+Kotlas,KSZ
+Cotonou,COO
+Kotzebue,OTZ
+Koszalin,OSZ
+Kosice,KSC
+Christchurch,CHC
+Krakow,KRK
+Kramatorsk,KRQ
+Krasnodar,KRR
+Krasnojarsk,KJA
+Creil,CSF
+Kremenchug,KHU
+Krivoy Rog,KWG
+Kristianstad,KID
+Kuala Lumpur,KUL
+Kuantan,KUA
+Kuwait,KWI
+Kumamoto,KMJ
+Kunming,KMG
+Kuopio,KUO
+Kurgan,KRO
+Kursk,URS
+Kuusamo,KAO
+Kushiro,KUH
+Kutaisi,KUT
+Kufra,AKF
+Kyzyl,KYZ
+Kzyl-Orda,KZO
+Lagos,LOS
+Lyneham,LYE
+Lucknow,LKO
+Lamezia,SUF
+Lanzarote,ACE
+Lanzhou,ZGC
+La Paz,LPB
+Lappeenranta,LPP
+Larnaca,LCA
+Las Vegas,LAS
+Las-Palmas,LPA
+Latakia,LTK
+Lahore,LHE
+Leipzig,LEJ
+Lelystad,LEY
+Lemwerder,XLW
+Libreville,LBV
+Liverpool,LPL
+Lidkoping,LDK
+Leeds and Bradford,LBA
+Liepaya,LPX
+Lille,LIL
+Lilongwe,LLW
+Lima,LIM
+Limassol,QLI
+Lime Acres,LMR
+Limoges,LIG
+Linkoping,LPI
+Linz,LNZ
+Lyon,LYS
+Lipetsk,LPK
+Lisbon,LIS
+Lodz,QLZ
+Lausanne,QLS
+Lome,LFW
+Long Beach,LGB
+Longyearbyen,LYR
+London,LON
+Lorient,LRT
+Los Angeles,LAX
+Luang Prabang,LPQ
+Luanda,LAD
+Lugano,LUG
+Lugansk,VSG
+Luxor,LXR
+Lulea,LLA
+Lusaka,LUN
+Lutsk,UCK
+Lvov,LWO
+Liege,LGG
+Ljubljana,LJU
+Luxembourg,LUX
+Maastrichht,MST
+Mauritius,MRU
+Magadan,GDX
+Magdagachi,GDG
+Magnitogorsk,MQF
+Madras,MDJ
+Madrid,MAD
+Mazar-I-Sharif,MZR
+Miami,MIA
+Macau,QMP
+Malabo,SSG
+Malaga,AGP
+Male,MLE
+Malmo,MMA
+Malta,MLA
+Managua,MGA
+Mannheim-Neuostheim,MHG
+Manzini,MTS
+Manila,MNL
+Manston,NSE
+Manchester,MAN
+Maputo,MPM
+Lolland Falster,MRW
+Maribor,MBX
+Mariupol,MPW
+Marmaris,QRQ
+Marrakech,RAK
+Marselle,MRS
+Marudi,MUR
+Mary,MYP
+Maseru,MSU
+Muscat,MCT
+Makhachkala,MCX
+Matsuyama,MYJ
+Mahe Island,SEZ
+Medan,MES
+Medellin,MDE
+Meerbusch,ZOK
+Melbourne,MEL
+Memanbetsu,MMB
+Mexico,MEX
+Metz,MZM
+Metz-Nancy-Lorraine,ETZ
+Mashhad,MHD
+Midland,MAF
+Mikkeli,MIK
+Milan,MIL
+Mildenhall,MHZ
+Mineralnye Vody,MRV
+Minneapolis-St Paul,MSP
+Minsk,MSQ
+Mirgorod,MXR
+Mirnyj,MJZ
+Misawa,MSJ
+Miyazaki,KMI
+Mogadishu,MGQ
+Mogilev,MVQ
+Molde,MOL
+Mombasa,MBA
+Monaco,XMM
+Monastir,MIR
+Montpeller,MPV
+Montreal,YMQ
+Monrovia,MLW
+Montevideo,MVD
+Morristown,MMU
+Moscow,MOW
+Mudanjiang,MDG
+Multan,MUX
+Mumbai,BOM
+Murmansk,MMK
+Mulhouse,MLH
+Muenster,FMO
+Munich,MUC
+Nabereznye Chelny,NBC
+Nawabshah,WNS
+Nagoya,NGO
+Nagpur,NAG
+Nadi,NAN
+Nadym,NYM
+Nairobi,NBO
+Nalchik,NAL
+Namangan,NMA
+Nanjing,NKG
+Nancy,ENC
+Nantes,NTE
+Nanning,NNG
+Narvik,NVK
+Narstad-Narvik,EVE
+Naryan-Mar,NNM
+Nassau,NAS
+Nauru I.,INU
+Naha,NAH
+Nakhichevan,NAJ
+Ndjamena,NDJ
+Ndola,NLA
+Naples,NAP
+Neustadt-Glewe,QGW
+Neryungri,NER
+Neftekamsk,NEF
+Nefteyugansk,NFG
+Niamey,NIM
+Nizhnevartovsk,NJC
+Nizhniy Novgorod,GOJ
+Niiagata,KIJ
+Nicozia,NIC
+Nikolaev,NLV
+Numes,FNI
+Nis,INI
+Nice,NCE
+Novokuznetsk,NOZ
+Novorossijsk,NOI
+New Orleans,MSY
+Novy Urengoy,NUX
+Nome,OME
+Nordholz-Spieka,NDZ
+Norilsk,NSK
+Norrkoping,NRK
+Northolt,NHT
+Nottingham,NQT
+Nojabrxsk,NOJ
+Nouadhibou,NDB
+Nouakchott,NKC
+Nukus,NCU
+New York,NYC
+Newark,EWR
+Newburgh,SWF
+Newcastle,NCL
+Nuremberg,NUE
+Oberpfaffenhofen,OBF
+Ovda,VDA
+Odense,ODE
+Odessa Central,ODS
+Oita,OIT
+Okayama,OKJ
+Oki,OKI
+Okinawa,OKA
+Oklahoma,OKC
+Auckland,AKL
+Oakland,OAK
+Oxford,OXF
+Oktiabrskij,OKT
+Albany Country,ALB
+Alesund,AES
+Olbia,OLB
+Omsk,OMS
+Ontario,ONT
+Oradea,OMR
+Oran,ORN
+Orange,XOG
+Orebro,ORB
+Orel,OEL
+Orenburg,REN
+Orlando,ORL
+Orleans,ORE
+Ornskoldsvik,OER
+Orsk,OSW
+Osaka,OSA
+Osan,OSN
+Osijek,OSI
+Oslo,OSL
+Osnabruck-Atterheide,ZPE
+Ostend,OST
+Ostersund,OSD
+Ostrava,OSR
+Adak Island,ADK
+Midway NAF,MDY
+Lajes,TER
+Ottawa,YOW
+Oulu,OUL
+Offenbach,ZOZ
+Okhotsk,OHO
+Ohrid,OHD
+Osh,OSS
+Pavlodar,PWQ
+Paderborn,PAD
+Padova,QPA
+Palanga,PLQ
+Palermo,PMO
+Palma Mallorca,PMI
+Panama,PTY
+Panevezys,PNV
+Paris,PAR
+Parma,PMF
+Paphos,PFO
+Pevek,PWE
+Pekin,PEK
+Penza,PEZ
+Perm,PEE
+Perpignan,PGF
+Perth,PER
+Pescara,PSR
+Petrozavodsk,PES
+Petropavlovsk,PPK
+Petropavlovsk-Kamchatsky,PKC
+Pechora,PEX
+Peshawar,PEW
+Piza,PSA
+Penang,PEN
+Pittsburch,PIT
+Plovdiv,PDV
+Phnom-Penh,PNH
+Po,PUP
+Podgorica,TGD
+Poznan,POZ
+Poltava,PLV
+Polyarnyj,PYJ
+Pontiak-Oakland,PTK
+Pori,POR
+Port Blair,IXZ
+Port Moresby,POM
+Port Said,PSD
+Port Harcourt,PHC
+Portland,PDX
+Port Of Spain,POS
+Porto,OPO
+Prague,PRG
+Praja,RAI
+Preveza,PVK
+Pretoria,PRY
+Providence,PVD
+Presov,POV
+Pskov,PKV
+Poitiers,PIS
+Pula,PUY
+Pusan,PUS
+Pointe-Noire,PNR
+Pyongyang,FNJ
+Phuket,HKT
+Piestany,PZY
+Rabat,RBA
+Raduzhnyi,RAT
+Ramstein [US-Mil],RMS
+Ras Al Khaimah,RKT
+Reykjavik,REK
+Reims,RHE
+Rennes,RNS
+Recife,REC
+Reus,REU
+Rasht,RAS
+Riga,RIX
+Rijeka,RJK
+Riesa-Gohlis,ZRX
+Rome,ROM
+Rimini,RMI
+Rio De Janeiro,RIO
+Richmond,RID
+Riyadh,RUH
+Rovaniemi,RVN
+Rovno,RWN
+Rhodes,RHO
+Ronneby,RNB
+Rostov,ROV
+Rotterdam,RTM
+Rouen,URO
+Rousse,ROU
+Rybinsk,RYB
+Ryazan,RZN
+Saarbrucken,SCN
+Savonlinna,SVL
+Saidu Sharif,SDT
+Sacramento,SAC
+Sal,SID
+Salalah,SLL
+Salehard,SLY
+Thessaloniki,SKG
+Salvador,SSA
+Samara,KUF
+Samarkand,SKD
+Samos,SMI
+Samsun,SSX
+San Bernandino,SBT
+Sao Paulo,GRU
+San Tome,SOM
+San Jose,SJO
+Sanna,SAH
+San Diego,SAN
+St.Petersburg,LED
+San Salvador,SAL
+La Palma,SPC
+Santa Maria,RIA
+Santander,SDR
+Santo Domingo,SDQ
+Santiago,SCQ
+San Francisco,SFO
+Sao Tome Is,TMS
+Sapporo,SPK
+Zaragoza,ZAZ
+Sarajevo,SJJ
+Saransk,SKX
+Saratov,RTW
+Satu Mare,SUJ
+Southampton,SOU
+Sebha,SEB
+Severodoneck,SEV
+Seville,SVQ
+Semipalatinsk,PLX
+Sendai,SDJ
+Sonderborg,SGD
+Saint-Etienne,EBU
+Seoul,SEL
+Xi An,XIY
+Sibiu,SBZ
+Sibu,SBW
+Sigonella[Mil],NSY
+Sydney,SYD
+Silistra,SLS
+Simferopol,SIP
+Singapore,SIN
+Sindal,CNL
+Sitka,SIT
+Seattle,SEA
+Skelleftea,SFT
+Scampton,SQZ
+Skive,SQW
+Skien,SKE
+Skiathos,JSI
+Skovde,KVB
+Skopje,SKP
+Sliac,SLD
+Smolensk,LNX
+Songkhla,SGZ
+Sofia,SOF
+Sochi,AER
+Split,SPU
+Stavanger,SVG
+Stavropol,STW
+Istambul,IST
+Stara Zagora,SZR
+Stockholm,STO
+Strasbourg,SXB
+Strezhewoi,SWT
+Suva,SUV
+Sumy,UMY
+Sundsvall-Harnosand,SDL
+Surabaya,SUB
+Surgut,SGC
+Sukhumi Babusheri,SUI
+Syktyvkar,SCW
+Sanya,SYX
+Taif,TIF
+Taipei,TPE
+Taiping,TPG
+Taiyun,TYN
+Takamatsu,TAK
+Taldy-Kurgan,TDK
+Tallinn,TLL
+Tamanrasset,TMR
+Tambov,TBW
+Tampa,TPA
+Tampere,TMP
+Thunder Bay,YQT
+Tangier,TNG
+Tartu,TAY
+Tatry,TAT
+Tashkent,TAS
+Tbilisi,TBS
+Tebriz,TBZ
+Tehran,THR
+Tel Aviv,TLV
+Tenerife,TCI
+Termez,TMJ
+Ternopol,TNL
+Teterboro,TEB
+Tivat,TIV
+Tiksi,IKS
+Timisoara,TSR
+Tirana,TIA
+Tirgu Mures,TGM
+Tobolsk,TOX
+Tokyo,TYO
+Tomsk,TOF
+Toronto,YYZ
+Torreon Intl,TRC
+Tottori,TTJ
+Toyama,TOY
+Trabzon,TZX
+Treverse City,TVC
+Trapani,TPS
+Trenton,YTR
+Trivandrum,TRV
+Trieste,TRS
+Tripoli,TIP
+Trollhattan,THN
+Tromso,TOS
+Trondheim,TRD
+Tula,TYA
+Toulon,TLN
+Toulouse,TLS
+Tulcea,TCE
+Tunis,TUN
+Tours,TUF
+Turin,TRN
+Turkmenabad,CRZ
+Krasnovodsk,KRW
+Turku,TKU
+Tynda,TYD
+Taegu,TAE
+Tyumen,TJM
+Tianjin,TSN
+Ouagadougou,OUA
+Whitehorse,YXY
+Uden,UDE
+Uzhgorod,UDJ
+Ulan Bator,ULN
+Ulan-Ude,UUD
+Ulgii,ULG
+Ulyanovsk,ULY
+Umea,UME
+Unalakleet,UNK
+Watson Lake,YQH
+Uraj,URJ
+Uralsk,URA
+Urgench,UGC
+Urumqi,URC
+Usinsk,USK
+Ust-Ilimsk,UIK
+Ust-Kamenogorsk,UKK
+Ust-Kut,UKX
+Utapao,UTP
+Ufa,UFA
+Ukhta,UCT
+Farnborough,FAB
+Faro,FAO
+Fergana,FEG
+Fez,FEZ
+Philadelphia,PHL
+Florence,FLR
+Floro,FRO
+Forli,FRL
+Francistown,FRW
+Frankfurt,FRA
+Friedrichshafen,FDH
+Freetown,FNA
+Frosinone [Mil],QFR
+Fukuoka,FUK
+Fukushima,FKS
+Fairbanks,FAI
+Khabarovsk,KHV
+Hyderabad,HDD
+Haikou,HAK
+Hailar,HLD
+Hakodate,HKD
+Hultsfred,HLF
+Halmstad,HAD
+Humberside,HUY
+Hana,HNM
+Hanoi,HAN
+Hangzhou,HGH
+Chania,CHQ
+Harare,HRE
+Harbin,HRB
+Hargeisa,HGA
+Khartoum,KRT
+Hartford,HFD
+Kharkov,HRK
+Hatanga,HTG
+Hafr Albatin,HBT
+Heihe,HEK
+Helsinki,HEL
+Kherson,KHE
+Hatfield,HTF
+Chios,JKH
+Hiroshima,HIJ
+Khmelnitskiy,HMJ
+Haugesund,HAU
+Hodeidah,HOD
+Homer,HOM
+Houn,HUQ
+Hotan,HTN
+Hof,HOQ
+Ho Chi Minh City,SGN
+Khudzhand,LBD
+Hudiksvall,HUV
+Hurghada,HRG
+Hohhot,HET
+Hyeres,XHE
+Houston,HOU
+Jiamusi,JMU
+Cincinnati,CVG
+Zurich,ZRH
+Chiang Mai,CNX
+Changde,CGD
+Changchun,CGQ
+Cheboksary,CSY
+Jeju,CJU
+Chelyabinsk,CEK
+Chengdu,CTU
+Cherepovets,CEE
+Cherkassy,CKC
+Chernigov,CEJ
+Chernovtsy,CWC
+Cherskiy,CYX
+Chester,CEG
+Zhengzhou,CGO
+Chicago,CHI
+Chita,HTA
+Chokurdah,CKH
+Chulman,CNN
+Chambery,CMF
+Shannon,SNN
+Shanghai,SHA
+Sharjah,SHJ
+Sharm El Sheikh,SSH
+Chateauroux,CHR
+Schwerin,SZW
+Shemya AFB,SYA
+Shenyang,SHE
+Cherbourg,CER
+Shiraz,SYZ
+Shijiazhuang,SJW
+Schleswig-Kropp,QWI
+Shonai,SYO
+Speyer,ZQC
+Stauning,STA
+Stuttgart,STR
+Shimkent,CIT
+Sauliaj,HLJ
+Szczecin,SZZ
+Everett,PAE
+Evreux,EVX
+Edinburgh,EDI
+Edmonton,YEA
+Elat,ETH
+Eindhoven,EIN
+Ekibastuz,EKB
+Exeter,EXT
+Elista,ESL
+Al Ain,AAN
+El Borma,EBM
+Enschede,ENS
+Entebbe,EBB
+Epinal,EPL
+Erzincan,ERC
+Erzurum,ERZ
+Erfurt,ERF
+Jyvaskyla,JYV
+Yuzhno-Sakhalinsk,UUS
+Ujung Pandang,UPG
+Yakutat,YAK
+Yakutsk,YKS
+Yamagata,GAJ
+Yangon,RGN
+Ioannina,IOA
+Yaroslavl,IAR
+Iasi,IAS
